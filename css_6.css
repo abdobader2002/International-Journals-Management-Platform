@@ -1,0 +1,133 @@
+/**
+ * Copyright (c) 2013-2017 OpenJournalSystems.com All Rights Reserved.
+ * The unauthorized reproduction or distribution of this copyrighted work is illegal and punishable under US federal laws.  
+*/
+
+.static-page-list {
+    padding-left: 0;
+}
+
+.static-page-list li {
+    border-bottom: 1px solid #dedede;
+    padding: 12px 0;
+    padding-right: 0px;
+    position: relative;
+    padding-right: 40px;
+    list-style: none;
+}
+
+.staticpage-heading-title {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    line-height: 19px;
+    color: #333;
+    letter-spacing: 0.01em;
+    cursor: pointer;
+}
+
+.open-section {
+    position: absolute;
+    right: 5px;
+    top: 0;
+    font-size: 40px;
+    color: #dedede;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.close-section {
+    position: absolute;
+    right: 0;
+    top: -3px;
+    font-size: 40px;
+    color: #dedede;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.static-section-content {
+    padding-top: 16px;
+}
+
+
+/*----------------For FAQ------------------*/
+.faq-static-page-list li {
+    list-style: none;
+    border: 0;
+    margin-top: 10px;
+    border-radius: 4px;
+    padding-left: 5px;
+}
+
+.faq-staticpage-heading-title {
+    color: #fe7b51;
+}
+
+.faq-static-page-list li span {
+    cursor: pointer;
+}
+
+.dark-back {
+    background: #f6f6f6 url(images/ui-bg_glass_100_f6f6f6_1x400.png) 50% 50% repeat-x;
+}
+
+.ui-icon.ui-icon-plus {
+    background: url(../img/expand.gif) no-repeat;
+    float: left;
+    height: 12px;
+    margin-top: 4px;
+    width: 12px;
+    color: transparent;
+    margin-right: 5px;
+}
+
+.ui-icon.ui-icon-minus {
+    background: url(../img/collapse.gif) no-repeat;
+    float: left;
+    height: 12px;
+    margin-top: 4px;
+    width: 12px;
+    color: transparent;
+    margin-right: 5px;
+}
+
+.faq-static-section-content {
+    margin-top: 6px;
+    border: 2px solid #fff;
+    padding: 10px 20px;
+
+}
+.alert {
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+  }
+  
+  .alert-success {
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+  }
+  
+  .alert-info {
+    color: #31708f;
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+  }
+  
+  .alert-warning {
+    color: #8a6d3b;
+    background-color: #fcf8e3;
+    border-color: #faebcc;
+  }
+  
+  .alert-danger {
+    color: #a94442;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+  }
+  

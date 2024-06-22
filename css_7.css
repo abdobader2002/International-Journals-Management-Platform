@@ -1,0 +1,194 @@
+header {
+    background: #007b5c !important
+}
+
+body {
+    background: #fff !important
+}
+
+.journalInfoCol .carousel {
+    background: rgba(0, 123, 92, 0.6) !important;
+    color: #fff
+}
+
+.homeSlider .journalInfoCol .carousel-indicators li {
+    background: #fff !important
+}
+
+.homeSlider .journalInfoCol .carousel-indicators li.active {
+    background: #007b5c !important
+}
+
+.navigation {
+    background: #336d5e !important
+}
+
+header .navigation ul#navigationPrimary li:first-child {
+    background: #d55c39 !important
+}
+
+header .navigation ul#navigationPrimary li:first-child::after {
+    border-left-color: #d55c39 !important
+}
+
+header .navigation #navigationPrimary .nav-link,
+#user-dashboard-link,
+#navigationUser a.nav-link,
+#user-nav-wraper a,
+#languageNav .dropdown-toggle {
+    color: #fff
+}
+
+header .navigation .dropdown-menu {
+    background: #d55c39 !important
+}
+
+.navRight ul.social li a,
+.topHeadSocial .social li a {
+    color: #d55c39 !important
+}
+
+header .navigation #navigationPrimary .nav-link:hover {
+    color: #d55c39 !important
+}
+
+.sidebar .pkp_block.block_information.block_announcement .title {
+    background-color: #d55c39 !important;
+    border-left: 1px solid #d55c39 !important
+}
+
+.sidebar .pkp_block.block_information.block_announcement .title {
+    color: #d55c39 !important
+}
+
+.sidebar .block_make_submission .content a {
+    color: #d55c39 !important
+}
+
+.sidebar .block_make_submission .content a {
+    background-color: #000 !important;
+    border: 1px solid #000 !important
+}
+
+.sidebar .pkp_block .title {
+    border-left: 4px solid #d55c39 !important;
+    color: #d55c39 !important
+}
+
+.sidebar>div.showHide .title {
+    color: #d55c39 !important;
+    background: #fff !important
+}
+
+.sidebar>div .title::after {
+    color: #d55c39 !important
+}
+
+footer .footBox ul li,
+footer .footBox ul li a,
+footer .bottomfoot .copyright,
+.design {
+    color: #444 !important
+}
+
+a:hover,
+#sidebar .content li a:hover {
+    color: #001510
+}
+
+a,
+a:visited,
+a:link,
+#sidebar .content li a {
+    color: #007b5c
+}
+
+header .navigation .dropdown-menu .dropdown-item:hover {
+    color: #d55c39 !important;
+    border-bottom: 2px solid #d55c39 !important
+}
+
+.headings,
+.page_contact .page-header h1,
+.submission-item-block h2 {
+    color: #007b5c
+}
+
+.searchfieldA button.btn-primary:hover {
+    background: #007b5c !important;
+    border-color: #007b5c !important
+}
+
+header .navigation ul#navigationPrimary li.dropdown .dropdown-menu a,
+header .navigation #navigationUser li.dropdown .dropdown-menu a {
+    color: #fff !important
+}
+
+.current_issue_title {
+    color: #007b5c !important
+}
+
+.reItem .published {
+    border-right: 2px solid #d55c39 !important
+}
+
+.listView .issue_item .archiveDate {
+    border-right: 2px solid #d55c39 !important
+}
+
+nav.cmp_breadcrumbs ol.breadcrumb li a {
+    color: #007b5c !important
+}
+
+.gridListBox ul li.active a {
+    color: #007b5c !important
+}
+
+.nav.nav-pills a,
+.read_more,
+button {
+    color: #007b5c !important
+}
+
+footer {
+    background: #371c1c !important
+}
+
+.homeSlider .journalInfoCol .item h5 {
+    color: #fff !important
+}
+
+.homeSlider .journalInfoCol .item p {
+    color: #fff !important
+}
+.alert {
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+  }
+  
+  .alert-success {
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+  }
+  
+  .alert-info {
+    color: #31708f;
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+  }
+  
+  .alert-warning {
+    color: #8a6d3b;
+    background-color: #fcf8e3;
+    border-color: #faebcc;
+  }
+  
+  .alert-danger {
+    color: #a94442;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+  }
+  
