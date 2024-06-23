@@ -8,7 +8,7 @@ if (isset($_GET['filename'])) {
     $file_name = basename($file_name); // Sanitize the filename to prevent directory traversal
 
     // File path to the file you want to download
-    $file_path = 'C:/xampp/htdocs/intarnational journal/uploads/' . $file_name;
+    $file_path = 'C:/xampp/htdocs/International-Journals-Management-Platform-main/uploads/' . $file_name;
 
     // Check if the file exists
     if (file_exists($file_path)) {
